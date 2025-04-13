@@ -12,6 +12,11 @@ Print 1 of "Chess_Black_King.stl" and "Chess_Black_Queen.stl", both the same col
 
 Print 1 of "Chess_White_King.stl" and "Chess_White_Queen.stl", both the same color but different from the previous.
 
+## Link
+
+https://cad.onshape.com/documents/03a5d36506fefbfcc33216d7/w/07db2639f19d3a6457d30eab/e/395200a563c9e33290ac36a8?renderMode=0&uiState=67fc2f08f1e6e93fb1e5fc41
+
+
 ## Purpose
 
 A chess board with a Legend of Zelda theming that can be converted into a much flatter assembly for easy storage.
