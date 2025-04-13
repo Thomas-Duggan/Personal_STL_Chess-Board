@@ -1,11 +1,11 @@
 ## Notes
 
-Print 16 of "Chess_Pawn.stl", 8 of each color.
-Print 2 of "Chess_Rook.stl", "Chess_Bishop.stl", and *"Chess_Knight.stl" (currently doesn't exist)*, 1 of each color.
-Print 64 of "Chess_Tile.stl", 32 of each color.
+Print 16 of "Chess_Pawn.stl", 8 of each color. \n
+Print 2 of "Chess_Rook.stl", "Chess_Bishop.stl", and *"Chess_Knight.stl" (currently doesn't exist)*, 1 of each color. \n
+Print 64 of "Chess_Tile.stl", 32 of each color. \n
 Print 8 of "Chess_Pillar_Connector.stl", this can be any color.
-Print 1 of "Chess_Black_King.stl" and "Chess_Black_Queen.stl", both the same color.
-Print 1 of "Chess_White_King.stl" and "Chess_White_Queen.stl", both the same color.
+Print 1 of "Chess_Black_King.stl" and "Chess_Black_Queen.stl", both the same color. \n
+Print 1 of "Chess_White_King.stl" and "Chess_White_Queen.stl", both the same color. \n
 
 ## Purpose
 
