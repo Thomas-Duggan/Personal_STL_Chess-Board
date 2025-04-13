@@ -10,7 +10,7 @@ Print 8 of "Chess_Pillar_Connector.stl", this can be any color.
 
 Print 1 of "Chess_Black_King.stl" and "Chess_Black_Queen.stl", both the same color.
 
-Print 1 of "Chess_White_King.stl" and "Chess_White_Queen.stl", both the same color.
+Print 1 of "Chess_White_King.stl" and "Chess_White_Queen.stl", both the same color but different from the previous.
 
 ## Purpose
 
